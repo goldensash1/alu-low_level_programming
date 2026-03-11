@@ -1,0 +1,22 @@
+# macOS metadata
+.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
+
+# C build artifacts
+*.o
+*.out
+a.out
+
+# Task binaries generated during local testing
+functions_nested_loops/0-putchar
+functions_nested_loops/2-alphabet_x10
+functions_nested_loops/3-islower
+functions_nested_loops/4-isalpha
+functions_nested_loops/5-sign
+functions_nested_loops/6-abs
+functions_nested_loops/7-last_digit
+functions_nested_loops/8-24
+functions_nested_loops/test-alphabet
